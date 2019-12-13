@@ -1,0 +1,22 @@
+{
+  "name": "stc_server",
+  "version": "1.0.0",
+  "description": "email server & DB server to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SereetsiKC/STC_Server.git"
+  },
+  "author": "Kopano Sereetsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SereetsiKC/STC_Server/issues"
+  },
+  "homepage": "https://github.com/SereetsiKC/STC_Server#readme",
+  "dependencies": {
+    "mssql": "^6.0.1"
+  }
+}
